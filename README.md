@@ -1,0 +1,3 @@
+# TheWeatherOfAQIForecast
+一种基于BP神经网络的天气质量预测模型
+使用的tanh函数，和梯度下降法，使用过去的天气数据来对未来的天气AQI值预测
